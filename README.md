@@ -47,7 +47,7 @@
 
 ## 🤝 O Desafio:
 
-Você deverá criar uma SPA (Single Page Aplication) que consuma a seguinte API: https://edvaldotorres.com.br. A API apresenta uma listagem de produtos com seu id, descrição, valor e código correspondente. A imagem abaixo mostra como deverá ser o layout implementado. Do lado esquerdo é apresentada uma listagem de produtos(que é obtida pela API). No lado direito deverá apresentar uma lista, que consiste na lista de produtos selecionados do lado esquerdo e ao final um totalizador contendo a somatória dos produtos selecionados.
+Você deverá criar uma SPA (Single Page Aplication) que consuma a seguinte API: http://api.salessoftwarehouse.com.br/list. A API apresenta uma listagem de produtos com seu id, descrição, valor e código correspondente. A imagem abaixo mostra como deverá ser o layout implementado. Do lado esquerdo é apresentada uma listagem de produtos(que é obtida pela API). No lado direito deverá apresentar uma lista, que consiste na lista de produtos selecionados do lado esquerdo e ao final um totalizador contendo a somatória dos produtos selecionados.
 
 ![Logo do Markdown](wireframe.png)
 
