@@ -43,7 +43,7 @@
 
 * Crie um Readme de como rodar o projeto.
 
-* Envie um email para (luisfgsales@gmail.com) e (dvaldodev@gmail.com) com a URL do seu repositorio avisando que você concluiu o projeto.
+* Envie um email para (fernando@salessoftwarehouse.com.br) com a URL do seu repositorio avisando que você concluiu o projeto.
 
 ## 🤝 O Desafio:
 
@@ -71,4 +71,4 @@ Você deverá criar uma SPA (Single Page Aplication) que consuma a seguinte API:
 
 ## Restou alguma dúvida?
 
-Você pode enviar um email para: (luisfgsales@gmail.com) ou (dvaldodev@gmail.com) !!! e Boa Sorte ⭐️
+Você pode enviar um email para: (fernando@salessoftwarehouse.com.br) !!! e Boa Sorte ⭐️
